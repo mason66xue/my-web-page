@@ -4,7 +4,8 @@
 
 Welcome! This is my first protfolio. In my website, you can find a short introduction about me, my recent projects and links to my github and Linkedin
 
-Portfolio Link: 
+Portfolio Link: https://mason66xue.github.io/my-web-page/
+
 
 ## Table of Contents
 - [Installation](#installation)
